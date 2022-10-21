@@ -4,7 +4,7 @@ import './Navbar.scss'
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div>Navbar Longest</div>
   )
 }
 
